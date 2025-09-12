@@ -2,3 +2,5 @@ resources/
 dl_complete_env/
 data/
 *.png
+artifacts/
+
