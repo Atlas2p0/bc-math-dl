@@ -4,3 +4,4 @@ data/
 *.png
 artifacts/
 mlruns/
+*.onnx
